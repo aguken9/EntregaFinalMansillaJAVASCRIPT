@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "PUMA",
+        "cantidad": 1,
+        "desc": "PUMA LAMELO",
+        "precio": 1000,
+        "img": "assets/pumalamelo.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Adidas",
+        "cantidad": 1,
+        "desc": "ADIDAS RUNNING",
+        "precio": 2000,
+        "img": "assets/adidas.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Fila",
+        "cantidad": 1,
+        "desc": "Fila Disruptor",
+        "precio": 1570,
+        "img": "assets/fila.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Nike",
+        "cantidad": 1,
+        "desc": "Nike Kobe",
+        "precio": 4200,
+        "img": "assets/nike.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "New Balance",
+       "cantidad": 1,
+        "desc": "New Balance 524",
+        "precio": 3000,
+        "img": "assets/newbalance.png"
+    }
+]

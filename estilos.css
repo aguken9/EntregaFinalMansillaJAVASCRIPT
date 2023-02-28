@@ -1,0 +1,150 @@
+.imagen{
+    max-width:100%;
+}
+
+.img--fabrica{
+    height: 375px;
+    text-align: center;
+}
+
+.img--fabrica img {
+    height: 350px;
+}
+
+
+.contacto  {
+    font-size: 50px;
+    color: red;
+}
+
+.piedepagina {
+   color: red;
+   font-size: 32px;
+}
+
+.darkMode{
+    color: white;
+    background-color: black;
+}
+.darkMode .modal{
+    color: black;
+}
+.darkMode .card{
+    color: black
+}
+.hola  {
+    color: red;
+}
+a{
+    cursor:pointer;
+}
+.alerta{
+    font-weight:700;
+}
+
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+    color: blue;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-carrito{
+    width:200px;
+    padding:20px;
+} 
+
+.parrafo{
+    font-weight: 900;
+    font-style: italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+.boton{
+    opacity:0;
+    color: brown;
+}
+
+.nav-item a i {
+    font-size: 50px;
+    color: red;
+}
+
+
+
+
+form {
+    width: 450px;
+    margin: auto;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 7px;
+    background-color: black;
+}
+
+.datos {
+    text-align: center;
+    margin: 0px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+
+
+input, textarea {
+    width: 100%;
+    margin-top: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+}
+
+textarea {
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100% ;
+}
+
+#boton {
+    background: #31384A;
+    color: #fff;
+    padding: 20px
+}
+
+#boton:hover {
+    cursor: pointer;
+}
+
+.datos {
+    color: white;
+}
+
+.titulo--2 {
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.info {
+    color: white;
+}
+
+
+form .verificacion {
+    width: 20px;
+}
+.contactobody {
+    background-color: rgb(184, 201, 158);
+}
+.piedepagina2 {
+    margin-top: 50px;
+    font-size: 25px;
+}
